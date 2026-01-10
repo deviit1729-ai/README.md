@@ -1,0 +1,36 @@
+# AI-Based Student Performance Predictor
+
+## Project Overview
+This project predicts student academic performance using machine learning to support personalized learning.
+
+## Objective
+- Identify students at academic risk
+- Enable early intervention
+
+## Dataset
+Synthetic dataset simulating student learning behavior.
+
+## Model
+- Logistic Regression (Supervised Learning)
+
+## Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1-score
+
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+
+## How to Run
+1. Clone the repository
+2. Open the Jupyter Notebook
+3. Run all cells sequentially
+
+## Ethical Considerations
+- No sensitive data used
+- AI used as a decision-support tool
